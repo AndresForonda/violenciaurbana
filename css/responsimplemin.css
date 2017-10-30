@@ -1,5 +1,7 @@
-body{font-family:sans-serif;color:#000; }
-h1, h2, h3 , h4, h5, h6{font-family:monospace;font-weight:700;}
+/*body{font-family:sans-serif;color:#000; } */
+ body{font-family: 'Merriweather', serif;color:#000; }   
+/*h1, h2, h3 , h4, h5, h6{font-family:monospace;font-weight:700;}*/
+h1, h2, h3 , h4, h5, h6{font-family: 'Slabo 27px', serif;font-weight:700;}
 html,mark{color:#000}
 pre,textarea{overflow:auto}
 .bullet,li{list-style-type:inherit;list-style-position:outside}
@@ -88,6 +90,8 @@ img{max-width:100%;display:block;}
 .minw500px{min-width: 500px}
 .minh600px{min-height: 600px}
 .color-black{color:#000;}
+.oscroll{overflow: scroll;}
+.minw700px{min-width: 700px}
 /*modal*/
 /*modal*/
 
