@@ -49,7 +49,7 @@ img{max-width:100%;display:block;}
 .mostrar{left:0;}
 .fixed{position: fixed;}
 .fixed-button{position: fixed;right: 15px;}
-.top-20{margin-top: 20px}
+.mtop-20px{margin-top: 20px;}
 .menu-button{background-color: #FFF;color: #000; border-radius: 5px;width: 90px; height: 36px; margin-top:5px;border-color:#000;}
 /*Banner*/
 .banner{position: relative;z-index:-1;height: 100vh;overflow: hidden;text-align: center;background-image: url("../img/banner-home-top.jpg");background-size: cover;background-repeat: no-repeat;background-position: center;min-height: 500px;min-width: 320px;color: #DDDDDD}
@@ -89,10 +89,15 @@ img{max-width:100%;display:block;}
 .paddingleft20{padding-left: 20px}
 .minw500px{min-width: 500px}
 .minh600px{min-height: 600px}
+.maxh480px{max-height: 480px;}
 .color-black{color:#000;}
 .oscroll{overflow: scroll;}
 .minw700px{min-width: 700px}
-/*modal*/
+.pbottom-30px{padding-bottom:30px;}
+.margin-center{margin-right: auto; margin-left: auto;}
+.scroll-comuna{width: 1000px; height: 979px;}
+.scroll-comuna4{height: 699;width: 1000px;}
+
 /*modal*/
 
 .modal {
