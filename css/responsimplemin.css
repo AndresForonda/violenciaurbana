@@ -85,9 +85,9 @@ img{max-width:100%;display:block;}
 .img-container{width: 100%; background-color: #fff; max-width: 600px; margin-left: auto;margin-right: auto;}
 .h160px{height: 160px}
 .floatl{float: left}
-.margin0a0a{margin: 0 auto 0 auto;}
 .paddingleft20{padding-left: 20px}
 .minw500px{min-width: 500px}
+.margin0a0a{margin: 0 auto 0 auto;}
 .minh600px{min-height: 600px}
 .maxh480px{max-height: 480px;}
 .color-black{color:#000;}
@@ -97,7 +97,8 @@ img{max-width:100%;display:block;}
 .margin-center{margin-right: auto; margin-left: auto;}
 .scroll-comuna{width: 1000px; height: 979px;}
 .scroll-comuna4{height: 699;width: 1000px;}
-
+.galeria{background-color: #000;}
+.galeria-columna{border-radius:0px;width:100%;padding-bottom:30px; max-width: 500px;}
 /*modal*/
 
 .modal {
