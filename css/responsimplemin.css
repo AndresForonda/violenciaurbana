@@ -257,6 +257,7 @@ div.hover-shadow{
   .paddingleft20{padding: 30px 20px 30px 20px; width: 80%;margin-left: auto;margin-right: auto}
   .floatl{float: none}
   .galeria{display:flex;justify-content:space-between;flex-wrap:wrap;}
+  .iframe-video{height: 360px}
 }
 @media (min-width: 930px){
   .oscroll1{overflow: hidden;}
@@ -274,8 +275,9 @@ div.hover-shadow{
     width: 100%  
   }
   .maxw-1000px{
-    max-width:1000px
+    max-width:1000px;
   }
+  .iframe-video{width:100%; height: 500px; max-width: 1000px;}
 }
 @media (min-width: 1200px){
   .banner-date{
