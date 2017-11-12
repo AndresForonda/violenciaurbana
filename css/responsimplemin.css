@@ -273,6 +273,9 @@ div.hover-shadow{
     border-color:red;
     width: 100%  
   }
+  .scroll-comuna{
+    max-width:1000px
+  }
 }
 @media (min-width: 1200px){
   .banner-date{
