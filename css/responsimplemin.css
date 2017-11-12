@@ -278,6 +278,8 @@ div.hover-shadow{
     max-width:1000px;
   }
   .iframe-video{width:100%; height: 500px; max-width: 1000px;}
+  .nav-bar{left: auto; right: -100%}
+  .mostrar{right:0}
 }
 @media (min-width: 1200px){
   .banner-date{
