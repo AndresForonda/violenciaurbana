@@ -44,38 +44,45 @@ table{border-collapse:collapse}::selection{color:#FFF;background-color:#338FFF}:
 img{max-width:100%;display:block;}
 /*Cabecer*/
 .header{height: 50px;color:#444;position:absolute;right: 15px;}
-.nav-bar{position: absolute; left:-100%;width:50%;min-width: 200px;max-width: 320px;top:0;background-color: #000;height: 100vh; min-height: 480px;transition: 0.6s; }
+.nav-bar{position: absolute; right:-100%;width:50%;min-width: 200px;max-width: 320px;top:0;background-color: #000;height: 100vh; min-height: 480px;transition: 0.6s; }
 .nav-element{text-decoration: none; color: #fff; display: block; padding: 10px 10px 10px 30px;margin-bottom: 10px}
-.mostrar{left:0;}
+.mostrar{right:0;}
 .fixed{position: fixed;}
-.fixed-button{position: fixed;right: 15px;}
+.fixed-button{position: fixed;right: 15px}
 .mtop-20px{margin-top: 20px;}
-.menu-button{background-color: #FFF;color: #000; border-radius: 5px;width: 90px; height: 36px; margin-top:5px;border-color:#000;}
+.top-60px{margin-top: 60px;}
+.menu-button{background-color: #FFF;color: #000; border-radius: 5px;width: 90px; height: 36px; margin-top:5px;border-color:#000;z-index: 1000;}
 /*Banner*/
 .banner{position: relative;z-index:-1;height: 100vh;overflow: hidden;text-align: center;background-image: url("../img/banner-home-top.jpg");background-size: cover;background-repeat: no-repeat;background-position: center;min-height: 500px;min-width: 320px;color: #DDDDDD}
 .banner-date{font-size:13px;padding-bottom: 10px;}
+.violence-1{  background-image: url("../img/daniza-escrito.jpg"); width: 100%;height: 100vh; background-size: cover; overflow: hidden;background-position: center;min-height:520px;max-height: 800px;}
+.victima-1{  background-image: url("../img/victima1.jpg"); width: 100%;height: 100vh; background-size: cover; overflow: hidden;background-position: center;min-height:520px;max-height: 800px;}
+.victima-2{  background-image: url("../img/victima2.jpg"); width: 100%;height: 100vh; background-size: cover; overflow: hidden;background-position: center;min-height:520px;max-height: 800px;}
 /*No mostrar*/
 .none{display: none;}
 /*Centrar x2*/
 .centrado { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
 /*Centrar texto*/
 .center-text{text-align: center;}
+.centert{text-align: center;}
 /*Color de fondo crema*/
 .text-black{background-color: #000;color: #fff}
 /*Contenedor informacion*/
-.info-container{width: 100%;font-size: 16px; background-color: #000;color:#fff;padding: 50px 0 0 0; }
-.info-container-white{width: 100%;font-size: 16px; background-color: #fff;color:#000;padding: 50px 0 50px 0; }
+.info-container, .info-container-white, .width100{width: 100%;}
+.info-container{font-size: 16px; background-color: #000;color:#fff;padding: 50px 0 0 0; }
+.info-container-white{font-size: 16px; background-color: #fff;color:#000;padding: 50px 0 50px 0; }
 .info-padding{padding: 30px 20px 30px 20px; width: 80%;margin-left: auto;margin-right: auto}
 /*Padding de 20px*/
 .top-20{padding-top:20px;}
 /*Texto para autores*/
-.autor{font-style: italic; margin: 20px auto 20px auto;display: inline-block;right: 20px;float:right}
+.autor, .pbottom-60px{padding-bottom:60px;}
+.autor{font-style: italic; margin: 20px auto 20px auto;display: inline-block;right: 20px;float:right;}
 .black-2font{color:black;}
 .interes{background-color: #fff;width: 70%;margin-right: auto;margin-left: auto;color: #000;}
-.padding-bottom-30{padding-bottom: 30px}
-.banner-links{position: relative;z-index:2;height: 100vh;overflow: hidden;text-align: center;background-image: url("../img/banner-links.jpg");background-size: cover;background-repeat: no-repeat;background-position: center;min-height: 500px;min-width: 320px;color: #DDDDDD}
+.padding-bottom-30, .pbottom-30px{padding-bottom: 30px}
+.banner-links{position: relative;z-index:2;height: 100vh;overflow: hidden;text-align: center;background-image: url("../img/banner-links.jpg");background-size: cover;background-repeat: no-repeat;background-position: center;min-height: 500px;max-height: 600px;min-width: 320px;color: #DDDDDD}
 .links-button{margin:20px auto 0 auto;background-color: #fff;color:#000;padding: 15px;border-radius: 5px;box-shadow: 0px 2px 2px #eee;display: block; width: 300px}
-.delictual{z-index: 1; background-image: url(../img/estratificacion_mapa.jpg);background-size: cover;background-position: center;}
+.delictual{z-index: 1; position: relative; background-image: url(../img/estratificacion_mapa.jpg);background-size: cover;background-position: center;min-height: 600px;}
 .button-white{margin:20px;background-color: #fff;color:#000;padding: 15px;border-radius: 5px;box-shadow: 0px 2px 2px #eee;}
 .button-black{margin:20px;background-color: black;color:#eeeddd;padding: 15px;border-radius: 5px;box-shadow: 0px 2px 2px #777;}
 .interes{margin: 20px; width: 80%; max-width: 350px; margin-right: auto;margin-left: auto}
@@ -92,8 +99,8 @@ img{max-width:100%;display:block;}
 .maxh480px{max-height: 480px;}
 .color-black{color:#000;}
 .oscroll{overflow: scroll;}
+.oscroll1{overflow: scroll;}
 .minw700px{min-width: 700px}
-.pbottom-30px{padding-bottom:30px;}
 .margin-center{margin-right: auto; margin-left: auto;}
 .scroll-comuna{width: 1000px; height: 979px;}
 .scroll-comuna4{height: 699;width: 1000px;}
@@ -124,6 +131,14 @@ img{max-width:100%;display:block;}
 }
 
 /* The Close Button */
+.close2{
+  color: #375F75;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
 .close {
   color: #375F75;
   position: fixed;
@@ -134,7 +149,10 @@ img{max-width:100%;display:block;}
 }
 
 .close:hover,
-.close:focus {
+.close:focus,
+.close2:hover,
+.close2:focus
+{
   color: #999;
   text-decoration: none;
   cursor: pointer;
@@ -223,3 +241,47 @@ div.hover-shadow{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 /*End modal*/
+@media (min-width: 690px){
+  .banner-date{
+    font-size:14px;
+  }
+  .banner-description{
+    font-size: 16px;
+  }
+  .info-container{
+    font-size: 18px;
+  }
+  .center-text{
+    text-align: left;
+  }
+  .paddingleft20{padding: 30px 20px 30px 20px; width: 80%;margin-left: auto;margin-right: auto}
+  .floatl{float: none}
+  .galeria{display:flex;justify-content:space-between;flex-wrap:wrap;}
+}
+@media (min-width: 930px){
+  .oscroll1{overflow: hidden;}
+}
+@media (min-width: 1000px){
+  .info-padding, .paddingleft20{
+    width: 60%;
+    max-width:1200px;
+  }
+  .info-container{
+    font-size: 18px;
+  }
+  .full-image img{
+    border-color:red;
+    width: 100%  
+  }
+}
+@media (min-width: 1200px){
+  .banner-date{
+    font-size:15px;
+  }
+  .banner-description{
+    font-size: 25px;
+  }
+  .delictual{
+    height: 100vh;
+  }
+}

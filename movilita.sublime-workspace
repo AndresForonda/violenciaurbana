@@ -1,0 +1,596 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"async\tAttr"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"cdeli",
+				"cdeciltual.html"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"movil",
+				"movilimg.png\tw:566 h:797"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"links",
+				"links-button"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"transitio",
+				"transition-timing-function"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"nav",
+				"nav2\tHTML - Navigation object"
+			],
+			[
+				"bla",
+				"black-font"
+			],
+			[
+				"bl",
+				"black-letter"
+			],
+			[
+				"bacgr",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tritur",
+				"trituración"
+			],
+			[
+				"info",
+				"informes/"
+			],
+			[
+				"text-d",
+				"text-decoration-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"la",
+				"$latitud〔variable〕"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"LogoM",
+				"LogoMemoria.png\tw:602 h:175"
+			],
+			[
+				"Logo",
+				"LogoObservatorio.png\tw:1043 h:149"
+			],
+			[
+				"center",
+				"center-text"
+			],
+			[
+				"inf",
+				"info-padding"
+			],
+			[
+				"bac",
+				"background-clip"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 343.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 613.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/doit/public_html/movilita"
+	],
+	"file_history":
+	[
+		"/home/doit/public_html/ConexpeFinal/index.html",
+		"/home/doit/public_html/Violenciaurbana/css/responsimplemin.css",
+		"/home/doit/public_html/Violenciaurbana/cdelictivas.html",
+		"/home/doit/public_html/Violenciaurbana/gfotografica.html",
+		"/home/doit/public_html/Violenciaurbana/inter.html",
+		"/home/doit/public_html/Violenciaurbana/corto.html",
+		"/home/doit/public_html/Violenciaurbana/cdeciltual.html",
+		"/home/doit/public_html/Violenciaurbana/glosario.html",
+		"/home/doit/public_html/Violenciaurbana/index.html",
+		"/home/doit/public_html/Violenciaurbana/js/apps.js",
+		"/home/doit/public_html/Violenciaurbana/csocio.html",
+		"/home/doit/public_html/Violenciaurbana/test.html",
+		"/home/doit/public_html/Violenciaurbana/plantilla.html",
+		"/home/doit/public_html/ConexpeFinal/css/responsimplemin.css",
+		"/home/doit/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/doit/.config/sublime-text-3/Packages/AdvancedNewFile/README.md",
+		"/home/doit/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/doit/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/doit/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/home/doit/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/doit/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/public_html/index.html",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/public_html/projects/index.html",
+		"/home/doit/public_html/movilita/index.php",
+		"/opt/lampp/etc/httpd.conf",
+		"/home/doit/Unicauca/2017-2/Apli-Web/PruebaJsf/web/index.xhtml",
+		"/etc/tomcat8/tomcat-users.xml",
+		"/usr/share/tomcat8/conf/logging.properties",
+		"/home/doit/Unicauca/2017-2/Apli-Web/PruebaJsf/build.xml",
+		"/home/doit/public_html/movilita/pythonrocks.py",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/public_html/projects/movilita/app/login.php",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/public_html/projects/movilita/app/sesion.php",
+		"/home/doit/.config/sublime-text-3/Packages/User/python3.6.sublime-build",
+		"/home/doit/.config/sublime-text-3/Packages/User/python2.7.sublime-build",
+		"/home/doit/Descargas/NMHPSK.rar.xml",
+		"/home/doit/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/usr/bin/python3.6",
+		"/usr/bin/python3.6-config",
+		"/home/doit/Escritorio/pythonexample.py",
+		"/home/doit/public_html/movilita/links.html",
+		"/home/doit/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/etc/ssh/ssh_config",
+		"/etc/ssh/moduli",
+		"/etc/ssh/sshd_config",
+		"/home/doit/public_html/movilita/js/app.js",
+		"/run/user/1000/gvfs/dav",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/etc/webdav/@pwcache/andresforonda@doitdev.co",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/etc/doitdev.co/@pwcache/andresforonda",
+		"/home/doit/Descargas/goe2.html",
+		"/home/doit/public_html/movilita/app/conectar.php",
+		"/run/user/1000/gvfs/dav:host=a2plcpnl0611.prod.iad2.secureserver.net,port=2078,ssl=true/index.html",
+		"/home/doit/public_html/ConexpeFinal/about-us.html",
+		"/home/doit/public_html/ConexpeFinal/js/headroom.min.js",
+		"/home/doit/public_html/ConexpeFinal/phpmailer/send.php",
+		"/home/doit/public_html/ConexpeFinal/contact-us.html",
+		"/home/doit/public_html/movilita/app/sesion.php",
+		"/etc/tomcat8/server.xml",
+		"/usr/share/tomcat8/conf/tomcat-users.xml",
+		"/usr/share/tomcat8/conf/catalina.properties",
+		"/home/doit/public_html/movilita/css/responsimple.css",
+		"/home/doit/Descargas/boot.py",
+		"/home/doit/Unicauca/2017-2/Apli-Web/taller2V21/ses2c/src/main/webapp/loader.js",
+		"/home/doit/Unicauca/2017-2/Apli-Web/taller2V21/ses2c/src/main/webapp/index.html",
+		"/home/doit/Unicauca/2017-2/Apli-Web/taller2V21/ses2c/src/main/webapp/user.js",
+		"/tmp/mozilla_doit0/db_ses2unoamuchos.sql",
+		"/home/doit/Unicauca/2017-2/Apli-Web/taller2V21/ses2c/src/main/webapp/jquery.min.js",
+		"/home/doit/Descargas/main.py",
+		"/usr/share/licenses/xorg-xbacklight/COPYING",
+		"/home/doit/public_html/Ambientes de desarrollo/Colaborador 1/Prueba 1",
+		"/home/doit/public_html/Ambientes de desarrollo/Colaborador 2/ambientes-de-desarrollo/Prueba 1",
+		"/home/doit/public_html/movilita/app/Menu_reportes.php",
+		"/home/doit/public_html/movilita/app/informes/info_graicaH.php",
+		"/home/doit/public_html/movilita/app/informes/reporteH.php",
+		"/home/doit/public_html/main.py",
+		"/run/media/doit/MULTIBOOT/asig.php",
+		"/home/doit/public_html/movilita/app/login.php",
+		"/home/doit/public_html/movilita/app/envio_datos.php",
+		"/home/doit/public_html/movilita/app/MT.php",
+		"/home/doit/public_html/movilita/app/phpmailer/envio_datos.php",
+		"/run/media/doit/MULTIBOOT/app-new/home/app/asig.php",
+		"/home/doit/public_html/movilita/app/asig.php",
+		"/home/doit/public_html/movilita/app/registro.php",
+		"/run/media/doit/MULTIBOOT/app-new/home/app/MT.php",
+		"/run/media/doit/MULTIBOOT/ConexpeFinal/contact-us.html",
+		"/home/doit/public_html/movilita/app/phpmailer/send.php",
+		"/run/media/doit/MULTIBOOT/ConexpeFinal/index.html",
+		"/home/doit/public_html/movilita/app/cerrar_sesion.php",
+		"/run/media/doit/MULTIBOOT/ConexpeFinal/phpmailer/send.php",
+		"/run/media/doit/MULTIBOOT/app-new/home/index.php",
+		"/run/media/doit/F4AC581AAC57D5A8/wamp64/www/ConexpeFinal/phpmailer/send.php",
+		"/run/media/doit/F4AC581AAC57D5A8/wamp64/www/ConexpeFinal/contact-us.html",
+		"/home/doit/public_html/home/app/sesion.php",
+		"/run/media/doit/MULTIBOOT/app-new/home/app/login.php",
+		"/run/media/doit/MULTIBOOT/app-new/home/app/includes/header.php",
+		"/home/doit/public_html/home/app/login.php",
+		"/home/doit/public_html/home/app/includes/connection.php",
+		"/home/doit/public_html/home/app/includes/header.php",
+		"/home/doit/public_html/home/cerrar_sesion.php",
+		"/home/doit/Descargas/BaseDatos2.sql",
+		"/home/doit/Descargas/climaSprint1 - copia.sql",
+		"/home/doit/public_html/home/index.php",
+		"/home/doit/Descargas/app-new/home/index2.php",
+		"/run/media/doit/MULTIBOOT/Proyectos/dht11Oled.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/scroller.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/analogread.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/ssd1306.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/dht11ejemplo.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/Micropython/ampy/tests/test_files.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/Micropython/ampy/setup.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/Micropython/IntroIoT/GalileoTemp/main.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/Micropython/sockettry2.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/Micropython/sensor.py",
+		"/run/media/doit/MULTIBOOT/Proyectos/Micropython/ssd1306.py",
+		"/home/doit/Descargas/Adafruit_CircuitPython_SSD1306-master/adafruit_ssd1306/__init__.py",
+		"/home/doit/public_html/movilita/css/bootstrap.css",
+		"/home/doit/public_html/movilita/js/bootstrap.js",
+		"/home/doit/public_html/movilita/js/jQuery.js",
+		"/home/doit/public_html/movilita/js/popper.js",
+		"/home/doit/public_html/movilita/All/app-new/home/index.php",
+		"/home/doit/Descargas/bootstrap-4.0.0-beta-dist (1)/css/bootstrap-grid.css",
+		"/home/doit/Descargas/bootstrap-4.0.0-beta-dist (1)/css/bootstrap.min.css",
+		"/home/doit/Descargas/bootstrap-4.0.0-beta-dist (1)/css/bootstrap.css",
+		"/home/doit/Descargas/bootstrap-4.0.0-beta-dist (1)/css/bootstrap.css.map",
+		"/usr/share/netbeans/etc/netbeans.conf",
+		"/home/doit/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/doit/public_html/index.html",
+		"/home/doit/public_html/test.php",
+		"/home/doit/http/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"en l",
+			"en lin",
+			"text-deco",
+			"text",
+			"padding",
+			"min-heigh",
+			"footer",
+			"iframe",
+			"margin",
+			"team-col",
+			"team",
+			"flex",
+			"hei",
+			"mtop",
+			"top-20",
+			"margin-top",
+			"padding",
+			"body{font-family:sans-serif;color:#000; ",
+			"}\n",
+			"overflow",
+			"delictual",
+			"20",
+			"auto",
+			"margin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "Packages/User/python3.6.sublime-build",
+	"project": "movilita.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

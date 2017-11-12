@@ -1,10 +1,12 @@
 var nav=document.getElementById('nav');
-function myFunction(x) {
+function myFunction() {
     nav.classList.toggle('mostrar');
     nav.classList.toggle('fixed');
-    x.classList.toggle('fixed-button');
 }
-
+//var rutaAbsoluta = self.location.href;        // http://asdas.asd/uno/dos/index.html
+//var posicionUltimaBarra = rutaAbsoluta.lastIndexOf("/");
+//var rutaRelativa = rutaAbsoluta.substring( posicionUltimaBarra + "/".length , rutaAbsoluta.length );       // index.html
+//alert(rutaRelativa);
 /*Modal*/
 	function openModal() {
 	  document.getElementById('myModal').style.display = "block";
@@ -53,5 +55,10 @@ function checkKey(e) {
     else if (e.keyCode == '39') {
        plusSlides(1);
     }
-
+    else if (e.keyCode == '27') {
+       closeModal();
+    }
+}
+document.onkeyup = function(evt) {
+    console.log(evt.keyCode);
 }
