@@ -1,7 +1,15 @@
 /*body{font-family:sans-serif;color:#000; } */
- body{font-family: 'Merriweather', serif;color:#000; }   
-/*h1, h2, h3 , h4, h5, h6{font-family:monospace;font-weight:700;}*/
-h1, h2, h3 , h4, h5, h6{font-family: 'Slabo 27px', serif;font-weight:700;}
+ /*body{font-family: 'Merriweather', serif;color:#000; }   */
+ body{font-family: 'Roboto Slab', serif;color:#000; }
+
+    
+
+    
+
+
+/*h1, h2, h3 , h4, h5, h6{font-family:monospace;font-weight:700;}
+h1, h2, h3 , h4, h5, h6{font-family: 'Slabo 27px', serif;font-weight:700;}*/
+h1, h2, h3 , h4, h5, h6{font-family: 'PT Serif', serif;font-weight:700;}
 html,mark{color:#000}
 pre,textarea{overflow:auto}
 .bullet,li{list-style-type:inherit;list-style-position:outside}
